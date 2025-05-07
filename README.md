@@ -1,4 +1,4 @@
-# JustAnother DiscordRPC Plugin for IDA Pro 
+# JustAnother DiscordRPC Plugin for IDA 9.0sp1
 Discord Rich Presence integration for IDA Pro. Show off your RE skills! 🚀
 
 ### ⚠️ Disclaimer  
