@@ -38,13 +38,15 @@ This repository is created **for educational purposes only**. Use at your own ri
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-╭─────────────────────────────╮
-│ ФУНКЦИОНАЛ / FEATURES       │
-├─────────────────────────────┤
-│ • Discord Rich Presence     │
-│ • Конфигурация через файл   │
-│ • Автоматическое обновление │
-╰─────────────────────────────╯
+## ФУНКЦИОНАЛ / FEATURES  
+- **Discord Rich Presence**  
+- **Конфигурация через файл** (настройка параметров RPC)  
+- **Автоматическое обновление** статуса при изменениях
+
+##  FEATURES
+- **Discord Rich Presence Integration**
+- **File-based Configuration (customize RPC parameters via config file)**
+- **Automatic Status Updates (reflects changes in real-time)**
 
 **Примечание:** Плагин остаётся активным до закрытия IDA. Для повторной активации после перезапуска - снова запустите плагин.  
 
