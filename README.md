@@ -55,3 +55,5 @@ This repository is created **for educational purposes only**. Use at your own ri
 # By JustAmnesia with 🖤  
 # Если помогло - оставь звезду ⭐ на репозитории  
 # If this helped you - leave a star ⭐ on the repo
+
+I used this repo for discord rpc -> https://github.com/discord/discord-rpc/
